@@ -9,3 +9,4 @@ print('\n Drittes Update. Hier wuerde theoretisch ein Bild hinzugefügt werden, 
 
 print('\n Noch ein Bild hinzufuegen. \n')
 
+print('\n Zusaetzliche Zeile fuer GitHub Test. \n')
